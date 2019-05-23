@@ -1,0 +1,378 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:700&display=swap');
+*{
+	margin : 0;
+	padding : 0;
+	font-family : Roboto;
+}
+a{
+	text-indent : 45px;
+	text-decoration : none; 
+}
+h1{
+	position : absolute;
+	padding-top : 32px;
+	top : 60px;
+	left : 120px;
+	color : #D82C2C;
+}
+.scholastic_logo{
+	position : absolute;
+	top : 60px;
+	left : 150px;
+}
+.joker{
+	position : absolute;
+	right : 125px;
+	top : 65px;
+}
+#sec1{
+	background-color : #EC2929;
+	position : absolute;
+	top : 143px;
+	width : 100%;
+	height : 360px;
+	color : white;
+}
+.welcome{
+	padding-top : 10px; 
+	text-indent : 166px; 	
+	font-size : 19px;
+}
+.signIn{
+	text-indent : 166px; 	
+	font-size : 36px;
+}
+#form1{
+	padding : 10px;
+	background-color : #0004; 
+	position : relative;
+	top : 5px;
+	left : 165px;
+	width : 240px;
+	padding-bottom : 32px; 
+}
+.email{
+	width : 230px;
+	height : 35px;
+	padding-left : 8px;
+}
+.password{
+	width : 230px;
+	height : 35px; 
+	padding-left : 8px;
+}
+.chek{
+	transform : scale(2) !important;
+	position : relative;
+	top : 16px; 
+	left : 8px;
+}
+.remember_me{
+	font-size : 14px;
+	position : relative;
+	top : -12px;
+	left : 32px;
+}
+.recommend{
+	font-size : 9px;
+	position : relative;
+	left : 16px;
+	top : 20px;
+}
+.submit{
+	width : 240px;
+	height : 45px; 
+	font-weight : bold;
+	font-size : 19px;
+	background-color : #ff8000;
+	color : white;
+	position : relative;
+	top : 7px;
+}
+.forgot a{
+	color : white;
+	font-size : 13px;
+	text-decoration : underline; 
+	position : relative;
+	top : 13px;
+}
+#time{
+	position : relative;
+	left : 450px;
+	top : -218px;
+	font-size : 39px;
+	width : 770px; 
+	text-align : center;
+}
+#teachers{
+	background-color : #0004;
+	font-size : 27px;
+	width : 385px;
+	height : 135px;
+	position : relative;
+	left : 436px;
+	top : -200px;
+	padding : 12px;
+}
+#teachers > p{
+	text-align : center; 
+	padding-bottom : 20px;
+	padding-top : 15px; 
+}
+.createAnAccount{
+	width : 360px;
+	height : 45px;
+	background-color : #3FB0EB;
+	color : white;
+	position : relative;
+	left : 15px;
+}
+#parents{
+	background-color : #0004;
+	font-size : 27px;
+	width : 385px;
+	height : 135px;
+	position : relative;
+	left : 405px;
+	top : -125px;
+	padding : 12px;
+}
+#parents > p{
+	text-align : center; 
+	padding-bottom : 20px;
+	padding-top : 15px; 
+}
+.getStarted{
+	width : 360px;
+	height : 45px;
+	background-color : #f28005;
+	color : white;
+	position : relative;
+	left : 15px;
+}
+.photo_1{
+	position : relative;
+	top : 507px; 
+	z-index : -1;
+}
+.quote{
+	font-size : 38px;
+	color : white;
+	position : relative;
+	top : 90px;
+	width : 1060px;
+	text-align : center;
+	left : 180px;
+}
+.howToGrow{
+	color : #d83230;
+	position : relative;
+	font-size : 36px;
+	font-family : 'Raleway', sans-serif;
+	z-index : 2;
+	top : 500px;
+	left : 430px;
+	width : 600px;
+	text-align : center;
+}
+#one{
+	position : relative;
+	top : 600px;
+	left : 160px;
+	width : 230px;
+	text-align : center;
+}
+.number{
+	color : #d83230;
+	font-weight : bold;
+}
+.para{
+	font-family : 'Raleway', sans-serif;
+	font-size : 19px;
+}
+#two{
+	position : relative;
+	top : 326px;
+	left : 445px;
+	width : 230px;
+	text-align : center;
+}
+#three{
+	position : relative;
+	top : 81px;
+	left : 730px;
+	width : 230px;
+	text-align : center;
+}
+#four{
+	position : relative;
+	top : -190px;
+	left : 1005px;
+	width : 230px;
+	text-align : center;
+}
+#howToGet{
+	background-color : #f4f1ea;
+	height : 490px;
+	width : 100%;
+	position : relative;
+	top : -140px;
+}
+.howToGet{
+	font-family : 'Raleway', sans-serif;
+	color : #EC4C4C;
+	font-size : 36px;
+	padding-top : 10px; 
+	text-align : center;
+}
+.grin_man{
+	position : relative;
+	left : 190px;
+	top : 20px;
+}
+#exclusively{
+	position : relative;
+	top : -130px;
+	text-align : center;
+}
+.ex{
+	font-family : 'Raleway', sans-serif;
+	font-size : 38px;
+	color : #C71E1E;
+}
+.table_1{
+	padding : 7px;
+	text-align : center;
+	position : relative;
+	top : 24px;
+	left : 200px;
+	font-size : 20px;
+}
+.table_1 a{
+	color : black;
+	font-family : 'Raleway', sans-serif;
+}
+.t{
+	padding : 44px;
+	border-left : #BD1C1C solid 2px;
+	border-right : #BD1C1C solid 2px;
+}
+.t_1{
+	padding : 44px;
+	border-right : #BD1C1C solid 2px; 
+}
+#letsGetReading{
+	background-color : #f4f1ea;
+	text-align : center;
+	position : relative;
+	height : 200px;
+	top : -80px;
+}
+.letsGetReading{
+	font-family : 'Raleway', sans-serif;
+	font-size : 38px;
+	color : #C71E1E;
+}
+.table_2{
+	position : relative;
+	top : -20px;
+	left : 250px;
+	padding : 20px;
+}
+.teachers_1 p{
+	font-family : 'Raleway', sans-serif;
+	font-size : 30px; 
+	color : #2CB2CD;
+}
+.tt{
+	width : 400px;
+	height : 50px;
+	background-color : #2CB2CD;
+	font-size : 23px;
+	color : white; 
+	transition: 0.8s;
+}
+.parents_1 p{
+	font-family : 'Raleway', sans-serif;
+	font-size : 30px;
+	color : #FF691E; 
+}
+.pp{
+	width : 400px;
+	height : 50px;
+	background-color : #FF691E;
+	font-size : 23px;
+	color : white;
+	transition: 0.8s;
+}
+#contacts{
+	position : relative;
+	border : white 2px solid;
+	height : 170px;
+	background-color : #f4f1ea;
+}
+#contacts p a{
+	font-family : 'Raleway', sans-serif;
+	color : black;
+	font-size : 15px;
+	line-height : 19px;
+}
+#contacts p{
+	line-height : 26px;
+	padding-top: 10px;
+	padding-left : 10px;
+}
+#contacts span{
+	padding-top: 19px;
+	padding-left : 10px;
+}
+#contacts p a:hover{
+	color : orange;
+}
+.forTeachers{
+	position : relative;
+	border : white 2px solid;
+	width : 230px;
+	height : 170px;
+	left : 12%;
+}
+.forParents{
+	border : white 2px solid;
+	position : relative;
+	width : 230px;
+	height : 170px;
+	left : 29.4%;
+	top : -174px;
+}
+.contactUs{
+	position : relative;
+	border : white 2px solid;
+	width : 230px;
+	height : 170px;
+	left : 46.5%;
+	top : -348px;
+}
+.followUs{
+	position : relative;
+	border : white 2px solid;
+	width : 230px;	
+	height : 170px;
+	left : 63.8%;
+	top : -522px;
+}
+#last{
+	margin-left : 12%;
+	padding-top : 18px; 
+	font-size : 14px;
+	font-family : arial;
+}
+#last a{
+	font-family :  'Raleway', sans-serif;
+	font-size : 14px;
+	color : black;
+	padding-right : 10px;
+	padding-left : 10px;	
+}
+#last a:hover{
+	color : orange;
+}
